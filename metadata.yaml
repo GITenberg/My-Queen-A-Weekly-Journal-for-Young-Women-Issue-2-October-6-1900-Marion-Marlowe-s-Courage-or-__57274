@@ -1,11 +1,16 @@
 _repo: My-Queen-A-Weekly-Journal-for-Young-Women-Issue-2-October-6-1900-Marion-Marlowe-s-Courage-or-__57274
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57274-h/images/cover.jpg
 creator:
   author:
     agent_name: Sheldon, Lurana Waterhouse
     gutenberg_agent_id: '49273'
     url: http://www.gutenberg.org/2009/agents/49273
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57274#My-Queen-A-Weekly-Journal-for-Young-Women-Issue-2-October-6-1900-Marion-Marlowe-s-Courage-or-_
 gutenberg_issued: '2018-06-04'
 gutenberg_type: Text
 identifiers:
